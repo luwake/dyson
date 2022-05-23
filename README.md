@@ -10,6 +10,12 @@ npm run build
 ```
 
 # demo
+demo pic:
+
+![alt 运行图片](demo.png)
+
+demo site:
+
 https://dyson.luwake.com/
 
 # todo
